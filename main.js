@@ -86,10 +86,4 @@ client.on('messageCreate', async message => {
     };
 });
 
-client.on('messageCreate', async message => {
-  if (message.content === '!help') {
-    message.channel.send('!youtube \n !doodlecrew \n !poker \n !chess \n !Betrayal \n !fishing \n !lettertile \n !wordsnack')
-  }
-})
-
 client.login("ㅌㅋ")
