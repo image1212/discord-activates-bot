@@ -1,3 +1,4 @@
 # discord-activates-bot
 
-수정중
+pip install discord discord_together
+ㅌㅋㅌㅋ에 봇 토큰 넣기
