@@ -63,5 +63,6 @@ async def 명령어(ctx):
     embed.add_field(name="!doodlecrew", value="캐치마인드 비슷한게임", inline=True)
     embed.set_footer(text="제작자 ! ! 이미지#6625") #지우지말것
     await ctx.send(embed=embed)
-
+    await ctx.send("https://discord.gg/c4GWM8RQWe | 공식서버에 참여해주세요!")
+    
 client.run("ㅌㅋㅌㅋ")
